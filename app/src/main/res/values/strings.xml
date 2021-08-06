@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nagwa-Files</string>
+    <string name="downloaded">Downloaded</string>
+    <string name="downloading">Downloading…</string>
+    <string name="open_with">Open with</string>
+    <string name="_100">100%</string>
+</resources>
